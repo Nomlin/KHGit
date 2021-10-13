@@ -1,1 +1,1 @@
-# KHGit
+# KSGit
